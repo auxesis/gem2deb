@@ -1,4 +1,5 @@
-log/*.yaml
+log/*
 bin/*
 vendor/gems/*
 !vendor/gems/cache/
+*.swp
